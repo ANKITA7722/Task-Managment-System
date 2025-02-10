@@ -1,3 +1,4 @@
+
 const express=require("express");
 const route=express.Router();
 const AdminController=require("../controller/adminController")
